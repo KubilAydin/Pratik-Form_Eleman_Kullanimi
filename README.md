@@ -22,12 +22,10 @@
 ```
 * Cinsiyet bilgisi için aşağıdaki elemanlar oluşturuldu.
 ```
-    <p>Cinsiyetinizi Giriniz :</p>
-    <input type="radio" name="gender" id="male" value="male">
-    <label for="male">Erkek</label>
-    <input type="radio" name="gender" id="female" value="female">
-    <label for="female">Kadın</label>
-        <br><br>
+    <label for="gender">Cinsiyetinizi Giriniz :</label>
+    <input type="radio" name="gender" id="male" value="male">Erkek
+    <input type="radio" name="gender" id="female" value="female">Kadın
+    <br><br>
 ```
  * Favori meyve bilgisi select option ile oluşturuldu.
  ```
